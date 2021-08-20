@@ -1,0 +1,40 @@
+$orange: #F2994A;
+$violet: #8476AA; 
+$green: #99EFD0;
+// $bg: #263238;
+// $gray: #f4f6f5;
+// $yellow: #fcb322;
+// $tomato: #ef6c00;
+
+@mixin g600 {
+    font-family: 'Gilroy-Semibold';
+    font-weight: 600;
+}
+@mixin g700 {
+    font-family: 'Gilroy-Bold';
+    font-weight: 700;
+}
+@mixin i700 {
+    font-family: 'Inter-Bold';
+    font-weight: 700;
+}
+@mixin i400 {
+    font-family: 'Inter-Regular';
+    font-weight: 400;
+}
+@mixin m500 {
+    font-family: 'Montserrat-Medium';
+    font-weight: 500;
+}
+@mixin o400 {
+    font-family: 'OpenSans-Regular';
+    font-weight: 400;
+}
+@mixin o600 {
+    font-family: 'OpenSans-SemiBold';
+    font-weight: 600;
+}
+@mixin r500 {
+    font-family: 'Rubik-Medium';
+    font-weight: 500;
+}
